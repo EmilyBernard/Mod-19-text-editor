@@ -12,6 +12,7 @@ module.exports = () => {
     entry: {
       main: './src/js/index.js',
       install: './src/js/install.js'
+
     },
     output: {
       filename: '[name].bundle.js',
@@ -36,7 +37,7 @@ module.exports = () => {
         inject: true,
         name: 'Text Editor',
         short_name: 'Editor',
-        description: '',
+        description: 'Take notes with JavaScript syntax highlighting',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
