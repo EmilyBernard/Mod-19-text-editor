@@ -9,19 +9,20 @@ SO THAT I can reliably retrieve them for later use
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Links](#links)
 - [Acknowledgements](#acknowledgements)
 
 
 
 ## Installation
-This application can be used by clicking this [link](https://text-editor-mod19.herokuapp.com/)
+This application can be used by clicking this [link](https://text-editor-mod19.herokuapp.com/).
+<br>
 Alternatively, a user could clone the GitHub [repo](https://github.com/EmilyBernard/Mod-19-text-editor), run 'npm install' in the VS code command line, then 'npm run start' when installation is done.  This will run the application on localhost:3000. 
 
-## Usage
+## Screenshot
+<img src="screenShotJATE.png" alt="Website Screenshot">
 
-<br>
 
 
 ## Links
